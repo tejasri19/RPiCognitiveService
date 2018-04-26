@@ -35,7 +35,7 @@ namespace RPiCognitiveService
     public sealed partial class PhotoPage : Page
     {
         //Computer Vision Key
-        string key = "your Computer Vision Key";  //API key
+        string key = e6fad9d6e26a4b14b82cc3ac3f3e4439;  //API key
         Size size_image;  //The size of the current image
         AnalysisResult thisresult;  //The result of analysis
 
