@@ -35,7 +35,7 @@ namespace RPiCognitiveService
     public sealed partial class FacePage : Page
     {
         //Face API Key
-        string key_face = "Your Face API Key";
+        string key_face = 0e3f33c6ebde4debbac92abe41ef1024;
 
         Size size_image;
         Face[] faces;
